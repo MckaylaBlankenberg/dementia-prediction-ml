@@ -47,6 +47,23 @@ It covers **data preprocessing, feature selection, model training, and evaluatio
 ---
 
 ## 🚀 How to Run
+
 1. Clone the repository:  
    ```bash
    git clone https://github.com/MckaylaBlankenberg/dementia-prediction-ml.git
+
+---
+
+## 📂 Dataset
+The dataset (`dementia.csv`) is provided by Eduvos for academic coursework.  
+It contains anonymized, synthetic patient health data and is included for reproducibility.  
+No personally identifiable information is present.
+
+
+
+
+
+
+
+---
+v
